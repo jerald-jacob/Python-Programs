@@ -1,5 +1,4 @@
-A boy is running the ground in one round requires 20 minutes. His master gives one bottle of milk in three days in a week. 
-That's day the boy completing one round of the ground only requires 15 minutes. The boy achieved one medal for each one round.
+A boy is running the ground in one round requires 20 minutes. His master gives one bottle of milk in sunday, thursday, and friday. In that days  boy completing one round in the ground only takes 15 minutes. The boy achieved one medal for each one round.
 Every day the boy is running for one hour.
 1) how many medals are achieved in a weekend.
-2) how many medals are achieved 30 days.
+2) how many medals are achieved in 30 days, the last day is friday.
